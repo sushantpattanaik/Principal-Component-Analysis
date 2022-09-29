@@ -34,8 +34,4 @@ Once we are done deciding on the number of Principal Components to use, we can t
 <br>
 We then project our data points onto the principal components and finally we get a matrix where the columns specify the values of the projected data.
 
-## The following video demonstrates the projection of data points along the line of maximum variance.
-<br>
 
-![](images/pca_demo.gif)
-   
